@@ -9,6 +9,7 @@ const port = process.env.PORT || 5000;
 const corsOptions = {
   origin: [
     "https://attendance-tracker-client.vercel.app",
+    "https://attendance-tracker-client-souravbsks-projects.vercel.app",
     "http://localhost:3000",
   ],
 };
